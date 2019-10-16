@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Noorish\'s CV</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">Noorish Hassan</string>
+    <string name="resume_title">Computer Science Student</string>
+    <string name="user_address">Lahore,Pakistan </string>
+    <string-array name="home">
+        <item>Home</item>
+        <item>Profile</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="email">noorishassan@gmail.com</string>
+    <string name="Address">Lahore, Pakistan</string>
+    <string name="description">Description</string>
+    <string name="AboutMe_Title">About Me</string>
+    <string name="Question1">Career Goal</string>
+    <string name="Question2">Ownership</string>
+    <string name="experience">Experience</string>
+    <string name="hands_on_skills">Skills</string>
+    <string name="phoneNumber">+923321461005</string>
+    <string name="Linkedin_IdLink">https://www.linkedin.com/in/noorishhassan/</string>
+    <string name="Linkedin_UserName">noorishhassan</string>
+    <string name="Github_UserName">noorishhassan</string>
+    <string name="Github_IdLink">https://github.com/noorishhassan</string>
+    <string name="ieee_link">https://ieeexplore.ieee.org/document/7840114</string>
+    <string name="StackOverFlow_UserName">noorish-hassan</string>
+    <string name="stackOverFlow_IdLink">https://stackoverflow.com/users/12130973/noorish-hassan</string>
+    <string name="education">Education</string>
+    <string name="answer">A highly motivated and skilled computer science student with adequate knowledge of programming and computer applications and a strong foundation of discrete mathematics, logical thinking and problem solving.</string>
+    <string name="answer1">I\'m accountable at my work. My priority is to make sure that whatever I develop or contribute into; should be of the highest quality.
+       </string>
+    <string name="experience_title">Deputy Head | Participant Relations</string>
+    <string name="experience_description"></string>
+    <string name="why_i_did_choose_work_1"></string>
+
+    <string name="year11">(year)</string>
+    <string name="experience_title1">Graphic Designer</string>
+    <string name="experience_description1">\u2713 Poster Designing \n\u2713 Social Media</string>
+    <string name="experience_year1">(2019)</string>
+    <string name="experience_title2">Volunteer | Media and Promotions</string>
+    <string name="experience_description2"></string>
+    <string name="experience_year2">Aug 2012 – Jan 2014</string>
+
+    <string name="project_title">Website Design | The Book Attic</string>
+    <string name="project_description">\u2713 Worked on an Online Book Management System.
+        \n\u2713 Made easy and flexible UI/ UX so that customers can navigate, search and order books and the Book store admin can update the stock.
+        \n\u2713 Worked on Microsoft SQL to create the database.
+        \n\u2713 Used CSS/HTML to create UI/UX.
+    </string>
+    <string name="year">(2019)</string>
+
+    <string name="project_title1">Corperate Identity | Fleur de Paradis</string>
+    <string name="project_description1">"\u2713 Worked on Adobe Photoshop and Adobe Illustrator to create logo for a flower company brand.\n\u2713 Created stationary including visiting cards, letter head and envelope.
+    </string>
+    <string name="year1">(2019)</string>
+    <string name="project_title2">File Encryption </string>
+    <string name="project_description2">\u2713 Implemented file encryption and compression.\n\u2713 Used Huffman algorithm, hash maps and other data structures.</string>
+    <string name="year2">(2018)</string>
+    <string name="project_title3">Paint Application </string>
+    <string name="project_description3">\u2713 Implemented graphics and functionality for a paint application.\n\u2713 Used the concepts of Object Oriented Programming including inheritance and Polymorphism.\n\u2713 Implemented graphics using BGI Library.</string>
+    <string name="year3">(2018)</string>
+    <string name="todo">TODO</string>
+    <string name="email_title">Email</string>
+    <string name="address_title">Address</string>
+    <string name="phone_number_title">Phone Number</string>
+    <string name="professional_links_title">Professional Links</string>
+    <string name="linkedin_title">Linkedin</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="stack_overflow_title">Stack Overflow</string>
+    <string name="github_title">Github</string>
+    <string name="Metric_degree_title">Metric</string>
+    <string name="school_name">Central Model school</string>
+    <string name="intermediate_title">Bachelors of Computer Science (BSCS)</string>
+    <string name="college_title">National University of Computer and Emerging Sciences</string>
+    <string name="graduation_title">Bachelors of Computer Science (BSCS)</string>
+    <string name="university_title">National University College of Computer and Emerging Sciences</string>
+    <string name="degree_title1">Certificate of Attendance, Graphic Design Course</string>
+    <string name="degree_title2">Degree Title</string>
+    <string name="degree_title3">Degree Title</string>
+    <string name="school_year">(2014)</string>
+    <string name="college_year">(2017 – Present)</string>
+    <string name="university_year">(2017 – Present)</string>
+    <string name="Cgpa"></string>
+    <string name="certification_courses_title">Certifications</string>
+    <string name="institute_title">Lifetime Learning at LUMS</string>
+    <string name="institute_year">(2018 - 2019)</string>
+    <string name="grades">(grades)</string>
+    <string name="institute_title1">Institute Title</string>
+    <string name="institude_year1">(year)</string>
+    <string name="grades1">(grades)</string>
+    <string name="institute_title2">Institute Title</string>
+    <string name="institute_year2">(year)</string>
+    <string name="grades2">(grades)</string>
+    <string name="skill_title_1">C/C++</string>
+    <string name="skill_title_2">Java</string>
+    <string name="skill_title_3">Photoshop/Illustrator</string>
+    <string name="skill_title_4">Web Development</string>
+    <string name="skill_title_5">Android</string>
+    <string name="projects_title">Projects</string>
+    <string name="why_i_did_choose_above_title_0"></string>
+    <string name="why_i_did_choose_above_title_1"></string>
+    <string name="why_i_did_choose_work_2"></string>
+    <string name="why_i_did_choose_work_3"></string>
+    <string name="company_name1">SOFTEC, National University of Computer and Emerging Sciences</string>
+    <string name="experience_time1">January 2019 - March 2019 (~2.5 months)</string>
+    <string name="worked_on_title">Worked On:</string>
+    <string name="company_name2">SOFTEC, National University of Computer and Emerging Sciences</string>
+    <string name="experience_time2">January 2019 - March 2019 (~2.5 months)</string>
+    <string name="worked_on2"></string>
+    <string name="company_name3">SOFTEC, National University of Computer and Emerging Sciences</string>
+    <string name="experience_time3">January 2018 - March 2018 (~2.5 months)</string>
+    <string name="worked_on3"></string>
+
+
+</resources>
